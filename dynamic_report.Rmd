@@ -20,6 +20,7 @@ body {
 ```
 
 ## Recommended Advertisements on Social Media Platforms  
+In this report we are looking at the relevancy and pattern of the recommended advertisements for the user. Also attending to the platforms and length of time a user is online for.
 
 ```{r fig.width=12, fig.height=4}
 
